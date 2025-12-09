@@ -4,12 +4,13 @@
 
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
     <application
+        android:name=".LanebyWallsApp"
         android:icon="@mipmap/app_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/Theme.WallpaperPicker">
         <activity
-            android:name=".LauncherChooserActivity"
+            android:name=".WallpapersActivity"
             android:exported="true"
             android:theme="@style/Theme.WallpaperPicker">
             <intent-filter>

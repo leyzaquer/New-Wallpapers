@@ -40,13 +40,12 @@ import com.google.android.material.carousel.CarouselSnapHelper;
 import com.google.android.material.carousel.FullScreenCarouselStrategy;
 import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 import com.google.android.material.imageview.ShapeableImageView;
-import com.google.android.material.materialswitch.MaterialSwitch;
 
 import java.util.ArrayList;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class LauncherChooserActivity extends AppCompatActivity implements View.OnClickListener {
+public class WallpapersActivity extends AppCompatActivity implements View.OnClickListener {
 
     protected static final float WALLPAPER_SCREENS_SPAN = 2f;
     private static final String PREF_KEY = "wallpaper_prefs";
