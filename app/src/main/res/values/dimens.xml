@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gallery_spacing">3dp</dimen>
+    <dimen name="wallpaper_instructions_dialog_item_drawable_padding">32.0dip</dimen>
+    <dimen name="wallpaper_instructions_dialog_item_min_height">48.0dip</dimen>
+    <dimen name="wallpaper_instructions_dialog_padding_bottom">8.0dip</dimen>
+    <dimen name="wallpaper_instructions_dialog_padding_top">15.0dip</dimen>
+    <dimen name="preview_toolbar_start_padding">0dp</dimen>
+    <dimen name="preview_toolbar_end_padding">12dp</dimen>
+    <dimen name="preview_attribution_pane_collapsed_height">0dp</dimen>
+    <dimen name="preview_attribution_pane_horizontal_padding">24dp</dimen>
+    <dimen name="preview_attribution_pane_extra_spacer_height">16dp</dimen>
+    <dimen name="preview_attribution_pane_inner_spacer_height">14dp</dimen>
+    <dimen name="preview_attribution_pane_title_height">48dp</dimen>
+    <dimen name="preview_attribution_pane_author_height">24dp</dimen>
+    <dimen name="preview_attribution_pane_author_top_margin">0dp</dimen>
+    <dimen name="preview_attribution_pane_description_height">34dp</dimen>
+    <dimen name="preview_attribution_pane_button_bottom_margin">8dp</dimen>
+    <dimen name="preview_attribution_pane_button_height">48dp</dimen>
+    <dimen name="preview_attribution_pane_button_padding">16dp</dimen>
+    <dimen name="preview_viewpager_round_radius">12dp</dimen>
+</resources>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="extra_wallpapers">
+    </array>
+    <array name="wallpapers" translatable="false">
+        <item>@drawable/icy_cone</item>
+        <item>@drawable/dystopia</item>
+        <item>@drawable/beam</item>
+        <item>@drawable/constraint</item>
+        <item>@drawable/crystal_burn</item>
+        <item>@drawable/motif</item>
+        <item>@drawable/gradient_ocean</item>
+        <item>@drawable/escape_river</item>
+        <item>@drawable/noir</item>
+        <item>@drawable/leaf</item>
+        <item>@drawable/vibelity</item>
+        <item>@drawable/chroma</item>
+        <item>@drawable/bucky</item>
+        <item>@drawable/kepler</item>
+        <item>@drawable/flora</item>
+        <item>@drawable/fidelity</item>
+        <item>@drawable/architecture</item>
+        <item>@drawable/city</item>
+        <item>@drawable/glowy_hex</item>
+        <item>@drawable/lotus</item>
+        <item>@drawable/village</item>
+        <item>@drawable/stream</item>
+        <item>@drawable/phasebeam</item>
+        <item>@drawable/street_lights</item>
+        <item>@drawable/grass_night</item>
+        <item>@drawable/grass</item>
+        <item>@drawable/despair</item>
+    </array>
+
+    <array name="wallpaper_thumbnails" translatable="false">
+        <item>@drawable/icy_cone_small</item>
+        <item>@drawable/dystopia_small</item>
+        <item>@drawable/beam_small</item>
+        <item>@drawable/constraint_small</item>
+        <item>@drawable/crystal_burn_small</item>
+        <item>@drawable/motif_small</item>
+        <item>@drawable/gradient_ocean_small</item>
+        <item>@drawable/escape_river_small</item>
+        <item>@drawable/noir_small</item>
+        <item>@drawable/leaf_small</item>
+        <item>@drawable/vibelity_small</item>
+        <item>@drawable/chroma_small</item>
+        <item>@drawable/bucky_small</item>
+        <item>@drawable/kepler_small</item>
+        <item>@drawable/flora_small</item>
+        <item>@drawable/fidelity_small</item>
+        <item>@drawable/architecture_small</item>
+        <item>@drawable/city_small</item>
+        <item>@drawable/glowy_hex_small</item>
+        <item>@drawable/lotus_small</item>
+        <item>@drawable/village_small</item>
+        <item>@drawable/stream_small</item>
+        <item>@drawable/phasebeam_small</item>
+        <item>@drawable/street_lights_small</item>
+        <item>@drawable/grass_night_small</item>
+        <item>@drawable/grass_small</item>
+        <item>@drawable/despair_small</item>
+    </array>
+
+    <string-array name="wallpaper_info" translatable="false">
+        <item>Icy Cone - Material You</item>
+        <item>The Dystopia\'s - Material Design</item>
+        <item>Beam - Holo</item>
+        <item>Constraint - Holo</item>
+        <item>Crystal\'s Burn - Holo</item>
+        <item>Motif - Holo</item>
+        <item>Gradient Ocean - Holo</item>
+        <item>Escape River\'s - Holo</item>
+        <item>Noir - Holo</item>
+        <item>Leaf - Holo</item>
+        <item>Vibelity - Holo</item>
+        <item>Chroma - Holo</item>
+        <item>Bucky - Holo</item>
+        <item>Kepler - Holo</item>
+        <item>Flora - Holo</item>
+        <item>Fidelity - Holo</item>
+        <item>Architecture - Holo</item>
+        <item>City - Holo (Earlier)</item>
+        <item>Glowy Hex - Holo (Earlier)</item>
+        <item>Lotus - Holo (Earlier)</item>
+        <item>Village\'s - Holo (Earlier)</item>
+        <item>Stream - Android</item>
+        <item>Phase Beam - Android</item>
+        <item>Street Light\'s - Android</item>
+        <item>Grass Night - Android</item>
+        <item>Grass - Android</item>
+        <item>Despair\'s - Android</item>
+    </string-array>
+
+    <string-array name="wallpaper_pick" translatable="false">
+    <item>@string/wallpaper_instructions</item>
+    <item>@string/live_wallpaper_instructions</item>
+    </string-array>
+
+
+    <string-array name="wallpaper_apply_options">
+        <item>@string/wallpaper_instructions_home</item>
+        <item>@string/wallpaper_instructions_lock</item>
+        <item>@string/wallpaper_instructions_both</item>
+    </string-array>
+</resources>
